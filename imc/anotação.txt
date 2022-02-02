@@ -1,0 +1,3 @@
+criação do projeto (npx create-react-app) nome do projeto (meuapp)
+
+roda o projeto ( yarn start )
